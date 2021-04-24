@@ -17,7 +17,7 @@
     <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.shields.io/badge/Nafis_Qurthubi-30302f?style=flat&logo=facebook" /></a>
     <a href="https://apisuserbot.medium.com/" target="blank"><img src="https://img.shields.io/badge/@PacarFerdilla-30302f?style=flat&logo=medium" /></a>
     <a href="https://t.me/PacarFerdilla" target="blank"><img src="https://img.shields.io/badge/@PacarFerdilla-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/apis_goodboy" target="blank"><img src="https://img.shields.io/badge/@PacarFerdilla-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/apis_goodboy" target="blank"><img src="https://img.shields.io/badge/@apis_goodboy-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
@@ -28,6 +28,8 @@
 
 <details>
     <summary>&#127942 <b>Team King</b></summary><br/>
+
+Team King Dengan Clone Plugin Dari TeamUltroid Sudah Rilis!!!
 
 [TeamKing](https://github.com/TeamKingUserbot/TeamKing-Userbot)
 
