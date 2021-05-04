@@ -1,9 +1,7 @@
 # Hai Semua 👋, Saya Apis!
 
-<!-- Footer -->
-<div align="left">
-<img alt="https://telegra.ph/file/de4a3beee63297f182433.mp4">
-<br />
+
+![Logo 404](https://telegra.ph/file/de4a3beee63297f182433.mp4)
 
 ### Tools:
 <p>
