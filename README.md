@@ -1,6 +1,9 @@
 # Hai Semua 👋, Saya Apis!
 
-![!404 Error](https://telegra.ph/file/de4a3beee63297f182433.mp4)
+<!-- Footer -->
+<div align="left">
+<img alt="https://telegra.ph/file/de4a3beee63297f182433.mp4">
+<br />
 
 ### Tools:
 <p>
