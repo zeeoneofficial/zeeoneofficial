@@ -1,7 +1,7 @@
 # Hai Semua 👋, Saya Apis!
 
 <p align="center">
-  <img src="https://telegra.ph/file/de4a3beee63297f182433.mp4">
+  <img src="https://telegra.ph/file/de4a3beee63297f182433.gif">
 </p>
 
 ![ERROR 404](https://telegra.ph/file/2343f48c40de0040484fb.jpg)
