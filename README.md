@@ -11,7 +11,7 @@
 
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=King-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Music-King=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Music-King&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=tgvc-King&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Manager-King&theme=nightowl)
 
