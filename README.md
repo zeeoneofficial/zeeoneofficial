@@ -9,6 +9,12 @@
 <p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api?username=apisuserbot&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisuserbot&theme=radical&layout=compact"></a></p> 
 
+## Repo Stats
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=King-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Music-King=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=tgvc-King&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=Manager-King&theme=nightowl)
+
 
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
