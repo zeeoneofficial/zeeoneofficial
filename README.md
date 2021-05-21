@@ -1,13 +1,13 @@
-![Python](https://telegra.ph/file/79fa4b83c7b995b16722c.jpg)
+![Python](https://a.top4top.io/p_1966tfto21.jpg)
 **X** Python Userbot Github **X**
 
-## 📨 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/PacarFerdilla) 
+## 📨 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/zeeoneee) 
 <br>
 
-![Profile Dilihat](https://komarev.com/ghpvc/?username=apisuserbot&color=blue&style=flat-square&label=Profile+Dilihat)
+![Profile Dilihat](https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat)
 ### Stats:
-<p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api?username=apisuserbot&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/apisuserbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisuserbot&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisuserbot&theme=radical&layout=compact"></a></p> 
 
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=apisuserbot&repo=King-Userbot&theme=dark)
