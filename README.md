@@ -9,7 +9,7 @@
 
 <h1 align="center"> 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊
 <p align="center">
-  <a href="https://instagram.com/zee.oneee"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram"/> 
+  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram"/> 
   <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img src="https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=WhatsApp" />
   <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/-Facebook-white?style=flat-square&logo=Facebook" />
   <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram" />
