@@ -3,7 +3,7 @@
   <img src="https://a.top4top.io/p_1966tfto21.jpg" />
 </p>
 
--  My name is zeeone
+-  My name is zeeone 
 -  I am 17 years old 
 -  I am a high school student
 
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://instagram.com/zee.oneee"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram"/> 
   <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img src="https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=WhatsApp" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/-Facebook-white?style=flat-square&logo=Facebook" />
   <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram" />
   <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
   <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
