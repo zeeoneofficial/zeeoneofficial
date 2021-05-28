@@ -9,13 +9,12 @@
 
 <h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram"/> 
-  <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img src="https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=WhatsApp" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/-Facebook-white?style=flat-square&logo=Facebook" />
-  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram" />
-  <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
-  
+  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/Github-E4405F?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=red" /> <br>
 </p>
 
 
