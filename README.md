@@ -5,9 +5,9 @@
 
 -  My name is zeeone 
 -  I am 17 years old 
--  I am a high school student
+-  I am not programmer
 
-<h1 align="center"> 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊
+<h1 align="center"> Connect with me
 <p align="center">
   <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram"/> 
   <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img src="https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=WhatsApp" />
