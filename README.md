@@ -3,9 +3,9 @@
   <img src="https://k.top4top.io/p_2039uufl81.jpg" />
 </p>
 
-- 🎌 My name is zeeone 
-- 🏁 I am 17 years old 
-- 🚩 I am not programmer
+- 👼 My name is Zeeone 
+- 🗣️ I am 17 years old 
+- 🔭 I am not programmer
 
 <h1 align="center"> Connect with me
 <p align="center">
