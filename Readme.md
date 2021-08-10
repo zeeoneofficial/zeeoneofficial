@@ -7,6 +7,7 @@
 - 🗣️ I am 17 years old 
 - 🔭 I am not programmer
 
+------
 ### Connect with me ☎️
 <p align="center">
   <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -15,10 +16,25 @@
   <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+View"></a>
+  
+
+</p>
+
+### Pubg mobile 🎮
+<p align="center">
+  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+</p>
+
+------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 
-![Profile view](https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat)
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
@@ -31,7 +47,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
 
 
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
