@@ -42,7 +42,7 @@
 <p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Alpha-userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=api-zeeoneofc&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Alpha-userbot&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
@@ -67,4 +67,4 @@
 
 ![Metrics](https://metrics.lecoq.io/zeeoneofc?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
-</details>
+</details> 
