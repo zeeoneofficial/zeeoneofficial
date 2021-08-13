@@ -3,9 +3,13 @@
   <img src="https://k.top4top.io/p_2039uufl81.jpg" />
 </p>
 
+<p align="center">
+
 - 👼 My name is Zeeone 
 - 🗣️ I am 17 years old 
 - 🔭 I am not programmer
+
+</p>
 
 ------
 ### Connect with me ☎️
