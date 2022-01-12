@@ -7,7 +7,7 @@ Halo @pushname @ucapan
 🌐 Libary : Baileys
 📆 Tanggal : @tanggal
 ⏰ Waktu : @time
-⏱️Runtime : @runtime
+⏱️ Runtime : @runtime
 
 *User Info*
 🎀 Nama : @pushname
