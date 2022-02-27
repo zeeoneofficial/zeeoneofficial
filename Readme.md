@@ -21,13 +21,13 @@
   <a href="https://youtube.com/c/zeeoneofc"><img src="https://img.shields.io/badge/YouTube-Zeeone Ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/zeeoneofc" /><br>
   <a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channels/UCdzWwbApjkyODby7_MoRYIA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYIA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://www.youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=zeeone-ofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeone-ofc&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
 ### Pubg mobile 🎮
 <p align="center">
-  <img src="https://github.com/zeeone-ofc/zeeone-ofc/blob/zeeone-ofc/2047a1zwq1.gif" />
+  <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
 </p>
 
 ------
@@ -42,20 +42,20 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=zeeone-ofc&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeone-ofc&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Alphabot-Md&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Alphab0t15&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Lord-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Alphab0t&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Haruka&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=zeeone-ofc&theme=nightowl)
 
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeeone-ofc)
 
 </details>
 
