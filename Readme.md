@@ -5,9 +5,9 @@
 
 <p align="center">
 
-- 👼 My name is zeeoneofc
-- 🗣️ I am 18 years old 
-- 🔭 I am not programmer
+- 👤 My name is zeeoneofc
+- 💌 I am 18 years old 
+- 👨‍💻 I am not programmer
 
 </p>
 
