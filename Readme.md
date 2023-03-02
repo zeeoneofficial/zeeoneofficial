@@ -47,7 +47,7 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=Alphabot-Md&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=Alphab0t&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=my-rest-api&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=Haruka-Md&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=zeeoneofficial&theme=nightowl)
 
