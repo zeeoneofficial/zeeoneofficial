@@ -1,12 +1,12 @@
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-  <img src="https://github.com/zeeoneofficial.png" />
+  <img src="https://github.com/zeeoneofficial.png" height=100 />
 </p>
 
 <p align="center">
 
 - 👤 My name is zeeoneofc
-- 💌 I am 18 years old 
+- 💌 I am 2023 years old 
 - 👨‍💻 I am not programmer
 
 </p>
@@ -51,17 +51,14 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=Haruka-Md&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=zeeoneofficial&theme=nightowl)
 
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<summary>&#127942 <b>GitHub Awards</b>
+</summary>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeeoneofficial)
 
-</details>
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+<summary>&#127942 <b>GitHub Activity</b>
+</summary>
 
 ![Metrics](https://metrics.lecoq.io/zeeoneofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
-</details> 
